@@ -9,3 +9,7 @@
 
 ### Special Topics
 - [Modern Robotics: Mechanics, Planning, and Control] (https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300)
+
+### Software Development
+- [Design Patterns: Elements of Reusable Object-Oriented Software] (https://www.amazon.ca/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- [Clean Code: A Handbook of Agile Software Craftsmanship] (https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
