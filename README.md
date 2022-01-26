@@ -13,3 +13,4 @@
 ### Software Development
 - [Design Patterns: Elements of Reusable Object-Oriented Software] (https://www.amazon.ca/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 - [Clean Code: A Handbook of Agile Software Craftsmanship] (https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [The Pragmatic Programmer: From Journeyman to Master] (https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
