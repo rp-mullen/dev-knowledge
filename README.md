@@ -1,4 +1,4 @@
-## CS/Software Development Independent Study Journal
+## CS/Software Development Independent Study Resources
 
 ### Computer Science Fundamentals
 - [Operating Systems: Three Easy Pieces](https://github.com/mthipparthi/operating-systems-three-easy-pieces/blob/master/book.pdf)
